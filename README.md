@@ -13,7 +13,7 @@ There are 4 tests.
 
 You should check the resource/default.params first for configuration as well as each Testcase in src/test  
 Usage:  
-  - mvn -Dtest=*Test* test
+  - mvn -Dtest=\*Test\* test
 
 There is a test_plugable_connection.sh.  
 Running this script will bring you to the real environment with wiperdog and some dummy jobs.  
